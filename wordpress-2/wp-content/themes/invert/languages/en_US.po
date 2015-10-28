@@ -1,0 +1,1248 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: SwiftBiz v1.1.3\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-10-01 12:59:10+0000\n"
+"Last-Translator: admin <gunjan@techinfini.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: English\n"
+"X-Poedit-Country: UNITED STATES\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: ../\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: 404.php:8
+#@ swiftbiz
+msgid "Page Not Found"
+msgstr ""
+
+#: 404.php:12
+#@ swiftbiz
+msgid "We bet this is not what you expected to see here!"
+msgstr ""
+
+#: SketchBoard/functions/post-types/slider_functions.php:8
+#@ swiftbiz
+msgid " Slides"
+msgstr ""
+
+#: SketchBoard/functions/post-types/slider_functions.php:9
+#: options.php:67
+#@ swiftbiz
+msgid "Slide"
+msgstr ""
+
+#: SketchBoard/functions/post-types/slider_functions.php:10
+#@ swiftbiz
+msgid "Add Slide"
+msgstr ""
+
+#: SketchBoard/functions/post-types/slider_functions.php:11
+#@ swiftbiz
+msgid "Add New Slide"
+msgstr ""
+
+#: SketchBoard/functions/post-types/slider_functions.php:12
+#@ swiftbiz
+msgid "Edit Slide"
+msgstr ""
+
+#: SketchBoard/functions/post-types/slider_functions.php:13
+#@ swiftbiz
+msgid "New Slide"
+msgstr ""
+
+#: SketchBoard/functions/post-types/slider_functions.php:14
+#@ swiftbiz
+msgid "All Slides"
+msgstr ""
+
+#: SketchBoard/functions/post-types/slider_functions.php:15
+#@ swiftbiz
+msgid "View Slide"
+msgstr ""
+
+#: SketchBoard/functions/sketch-breadcrumb.php:19
+#@ swiftbiz
+msgid "Home"
+msgstr ""
+
+#: SketchBoard/functions/sketch-breadcrumb.php:92
+#@ swiftbiz
+msgid "Author"
+msgstr ""
+
+#: SketchBoard/functions/sketch-breadcrumb.php:96
+#@ swiftbiz
+msgid "Tag"
+msgstr ""
+
+#: SketchBoard/functions/sketch-breadcrumb.php:100
+#@ swiftbiz
+msgid "Search"
+msgstr ""
+
+#: SketchBoard/functions/sketch-functions.php:49
+#@ swiftbiz
+msgid "Search Results: "
+msgstr ""
+
+#: SketchBoard/functions/sketch-functions.php:67
+#@ swiftbiz
+msgid "Author: "
+msgstr ""
+
+#: SketchBoard/functions/sketch-functions.php:103
+#@ swiftbiz
+msgid " | Category Archive | "
+msgstr ""
+
+#: SketchBoard/functions/sketch-functions.php:151
+#@ swiftbiz
+msgid "Tag Archive: "
+msgstr ""
+
+#: SketchBoard/functions/sketch-functions.php:216
+#@ swiftbiz
+msgid "Next &rsaquo;"
+msgstr ""
+
+#: SketchBoard/functions/sketch-functions.php:217
+#@ swiftbiz
+msgid "&lsaquo; Previous"
+msgstr ""
+
+#: SketchBoard/functions/sketch-theme-support.php:15
+#@ swiftbiz
+msgid "Untitled"
+msgstr ""
+
+#: SketchBoard/includes/options-framework.php:175
+#@ swiftbiz
+msgid " Options"
+msgstr ""
+
+#: SketchBoard/includes/options-framework.php:256
+#@ optionsframework
+msgid "Save Options"
+msgstr ""
+
+#: SketchBoard/includes/options-framework.php:257
+#@ optionsframework
+msgid "Restore Defaults"
+msgstr ""
+
+#: SketchBoard/includes/options-framework.php:257
+#@ swiftbiz
+msgid "Click OK to reset. Any theme settings will be lost!"
+msgstr ""
+
+#: SketchBoard/includes/options-framework.php:290
+#@ swiftbiz
+msgid "Default options restored."
+msgstr ""
+
+#: SketchBoard/includes/options-framework.php:333
+#@ swiftbiz
+msgid "Options saved."
+msgstr ""
+
+#: SketchBoard/includes/options-framework.php:384
+#@ swiftbiz
+msgid "Theme Options"
+msgstr ""
+
+#: SketchBoard/includes/options-medialibrary-uploader.php:26
+#@ swiftbiz
+msgid "Theme Options Media"
+msgstr ""
+
+#: SketchBoard/includes/options-medialibrary-uploader.php:129
+#@ swiftbiz
+msgid "Upload"
+msgstr ""
+
+#: SketchBoard/includes/options-medialibrary-uploader.php:152
+#@ optionsframework
+msgid "View File"
+msgstr ""
+
+#: SketchBoard/includes/options-medialibrary-uploader.php:289
+#@ optionsframework
+msgid "Gallery"
+msgstr ""
+
+#: SketchBoard/includes/options-medialibrary-uploader.php:289
+#@ optionsframework
+msgid "Previously Uploaded"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:232
+#@ swiftbiz
+msgid "No Repeat"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:233
+#@ swiftbiz
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:234
+#@ swiftbiz
+msgid "Repeat Vertically"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:235
+#@ swiftbiz
+msgid "Repeat All"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:248
+#@ swiftbiz
+msgid "Top Left"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:249
+#@ swiftbiz
+msgid "Top Center"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:250
+#@ swiftbiz
+msgid "Top Right"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:251
+#@ swiftbiz
+msgid "Middle Left"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:252
+#@ swiftbiz
+msgid "Middle Center"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:253
+#@ swiftbiz
+msgid "Middle Right"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:254
+#@ swiftbiz
+msgid "Bottom Left"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:255
+#@ swiftbiz
+msgid "Bottom Center"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:256
+#@ swiftbiz
+msgid "Bottom Right"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:269
+#@ swiftbiz
+msgid "Scroll Normally"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:270
+#@ swiftbiz
+msgid "Fixed in Place"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:344
+#@ swiftbiz
+msgid "Normal"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:345
+#@ swiftbiz
+msgid "Italic"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:346
+#@ swiftbiz
+msgid "Bold"
+msgstr ""
+
+#: SketchBoard/includes/options-sanitize.php:347
+#@ swiftbiz
+msgid "Bold Italic"
+msgstr ""
+
+#: archive.php:10
+#, php-format
+#@ swiftbiz
+msgid "Daily Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:12
+#, php-format
+#@ swiftbiz
+msgid "Monthly Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:14
+#, php-format
+#@ swiftbiz
+msgid "Yearly Archives: <span>%s</span>"
+msgstr ""
+
+#: archive.php:16
+#@ swiftbiz
+msgid "Blog Archives"
+msgstr ""
+
+#: archive.php:32
+#: author.php:25
+#: category.php:23
+#: home.php:23
+#: includes/latest-news.php:30
+#: search.php:25
+#: tag.php:18
+#@ swiftbiz
+msgid "No Comments "
+msgstr ""
+
+#: archive.php:32
+#: author.php:25
+#: category.php:23
+#: home.php:23
+#: includes/latest-news.php:30
+#: search.php:25
+#: tag.php:18
+#@ swiftbiz
+msgid "1 Comment "
+msgstr ""
+
+#: archive.php:32
+#: author.php:25
+#: category.php:23
+#: home.php:23
+#: includes/latest-news.php:30
+#: search.php:25
+#: tag.php:18
+#@ swiftbiz
+msgid "% Comments "
+msgstr ""
+
+#: archive.php:52
+#: author.php:44
+#: category.php:41
+#: home.php:47
+#: index.php:63
+#: search.php:40
+#: tag.php:36
+#@ swiftbiz
+msgid "&larr;Previous"
+msgstr ""
+
+#: archive.php:53
+#: author.php:45
+#: category.php:42
+#: home.php:48
+#: index.php:64
+#: search.php:41
+#: tag.php:37
+#@ swiftbiz
+msgid "Next&rarr;"
+msgstr ""
+
+#: archive.php:59
+#: author.php:51
+#: category.php:48
+#: contact-page.php:91
+#: home.php:54
+#: index.php:70
+#: search.php:47
+#: single.php:54
+#: tag.php:43
+#: template-fullwidth.php:37
+#@ swiftbiz
+msgid "Not Found"
+msgstr ""
+
+#: author.php:8
+#@ swiftbiz
+msgid "Author Archives:"
+msgstr ""
+
+#: category.php:6
+#, php-format
+#@ swiftbiz
+msgid "Category Archives: %s"
+msgstr ""
+
+#: comments-popup.php:21
+#: index.php:13
+#: search.php:20
+#@ swiftbiz
+msgid "by"
+msgstr ""
+
+#: comments-popup.php:23
+#@ swiftbiz
+msgid "&#8212;"
+msgstr ""
+
+#: comments-popup.php:25
+#@ swiftbiz
+msgid "@"
+msgstr ""
+
+#: comments-popup.php:32
+#@ swiftbiz
+msgid "No comments yet."
+msgstr ""
+
+#: comments-popup.php:35
+#@ swiftbiz
+msgid "Leave a comment"
+msgstr ""
+
+#: comments-popup.php:36
+#@ default
+msgid "Line and paragraph breaks automatic, e-mail address never displayed, <acronym title=\"Hypertext Markup Language\">HTML</acronym> allowed: "
+msgstr ""
+
+#: comments-popup.php:39
+#@ swiftbiz
+msgid "Logged in as "
+msgstr ""
+
+#: comments-popup.php:39
+#@ swiftbiz
+msgid "Log out"
+msgstr ""
+
+#: comments-popup.php:42
+#@ swiftbiz
+msgid "Name"
+msgstr ""
+
+#: comments-popup.php:50
+#@ swiftbiz
+msgid "E-mail"
+msgstr ""
+
+#: comments-popup.php:55
+#@ swiftbiz
+msgid "URL"
+msgstr ""
+
+#: comments-popup.php:61
+#@ swiftbiz
+msgid "Your Comment"
+msgstr ""
+
+#: comments-popup.php:71
+#@ swiftbiz
+msgid "Sorry, the comment form is closed at this time."
+msgstr ""
+
+#: comments-popup.php:79
+#@ swiftbiz
+msgid "Close this window."
+msgstr ""
+
+#: comments.php:5
+#@ swiftbiz
+msgid "This post is password protected. Enter the password to view comments."
+msgstr ""
+
+#: comments.php:13
+#@ swiftbiz
+msgid "No Comment"
+msgstr ""
+
+#: comments.php:13
+#@ swiftbiz
+msgid "One Comment"
+msgstr ""
+
+#: comments.php:13
+#@ swiftbiz
+msgid "% Comments"
+msgstr ""
+
+#: comments.php:13
+#@ swiftbiz
+msgid " so far:"
+msgstr ""
+
+#: comments.php:27
+#@ swiftbiz
+msgid "Comments are closed."
+msgstr ""
+
+#: contact-page.php:25
+#: includes/latest-news.php:38
+#: page.php:20
+#: single.php:29
+#: template-fullwidth.php:25
+#: template-sitemap.php:25
+#@ swiftbiz
+msgid "<p><strong>Pages:</strong> "
+msgstr ""
+
+#: contact-page.php:25
+#: includes/latest-news.php:38
+#: page.php:20
+#: single.php:29
+#: template-fullwidth.php:25
+#: template-sitemap.php:25
+#@ swiftbiz
+msgid "number"
+msgstr ""
+
+#: contact-page.php:29
+#@ swiftbiz
+msgid "Name:"
+msgstr ""
+
+#: contact-page.php:34
+#@ swiftbiz
+msgid "Email:"
+msgstr ""
+
+#: contact-page.php:39
+#@ swiftbiz
+msgid "Subject:"
+msgstr ""
+
+#: contact-page.php:44
+#@ swiftbiz
+msgid "Message:"
+msgstr ""
+
+#: contact-page.php:64
+#@ swiftbiz
+msgid "Sending..."
+msgstr ""
+
+#: contact-sidebar.php:9
+#@ swiftbiz
+msgid "Contact us"
+msgstr ""
+
+#: footer.php:67
+#@ swiftbiz
+msgid "Premium Wordpress Themes by"
+msgstr ""
+
+#: footer.php:67
+#@ swiftbiz
+msgid "Sketch Themes"
+msgstr ""
+
+#: functions.php:37
+#@ swiftbiz
+msgid "Main Navigation"
+msgstr ""
+
+#: includes/latest-news.php:6
+#@ swiftbiz
+msgid "Latest news from our blog"
+msgstr ""
+
+#: includes/main-box.php:12
+#: includes/main-box.php:25
+#: includes/main-box.php:38
+#@ swiftbiz
+msgid "Read More &rarr;"
+msgstr ""
+
+#: index.php:10
+#: single.php:19
+#@ swiftbiz
+msgid "Posted on"
+msgstr ""
+
+#: index.php:15
+#@ swiftbiz
+msgid "Filled Under"
+msgstr ""
+
+#: options.php:41
+#@ swiftbiz
+msgid "Gray"
+msgstr ""
+
+#: options.php:42
+#@ swiftbiz
+msgid "Blue"
+msgstr ""
+
+#: options.php:43
+#@ swiftbiz
+msgid "Brown"
+msgstr ""
+
+#: options.php:44
+#@ swiftbiz
+msgid "Green"
+msgstr ""
+
+#: options.php:45
+#@ swiftbiz
+msgid "Purple"
+msgstr ""
+
+#: options.php:46
+#@ swiftbiz
+msgid "Red"
+msgstr ""
+
+#: options.php:60
+#: options.php:79
+#: options.php:85
+#: options.php:91
+#: options.php:97
+#@ swiftbiz
+msgid "Yes"
+msgstr ""
+
+#: options.php:61
+#: options.php:80
+#: options.php:86
+#: options.php:92
+#: options.php:98
+#@ swiftbiz
+msgid "No"
+msgstr ""
+
+#: options.php:66
+#@ swiftbiz
+msgid "Fade"
+msgstr ""
+
+#: options.php:73
+#: options.php:103
+#: options.php:109
+#: options.php:115
+#@ swiftbiz
+msgid "Show"
+msgstr ""
+
+#: options.php:74
+#: options.php:104
+#: options.php:110
+#: options.php:116
+#@ swiftbiz
+msgid "Hide"
+msgstr ""
+
+#: options.php:157
+#@ swiftbiz
+msgid "General Settings"
+msgstr ""
+
+#: options.php:161
+#@ swiftbiz
+msgid "Change logo (full path to logo image)"
+msgstr ""
+
+#: options.php:162
+#@ swiftbiz
+msgid "This creates a Custom logo that previews the image."
+msgstr ""
+
+#: options.php:168
+#@ swiftbiz
+msgid "Logo ALT Text"
+msgstr ""
+
+#: options.php:169
+#@ swiftbiz
+msgid "Logo ALT Text field."
+msgstr ""
+
+#: options.php:175
+#@ swiftbiz
+msgid "Change favicon"
+msgstr ""
+
+#: options.php:176
+#@ swiftbiz
+msgid "This creates a Custom favicon that previews the image."
+msgstr ""
+
+#: options.php:182
+#@ swiftbiz
+msgid "Color Scheme"
+msgstr ""
+
+#: options.php:183
+#@ swiftbiz
+msgid "Color Scheme select box."
+msgstr ""
+
+#: options.php:191
+#@ swiftbiz
+msgid "Show Custom Pagination"
+msgstr ""
+
+#: options.php:192
+#@ swiftbiz
+msgid "Show custom pagination on blog page."
+msgstr ""
+
+#: options.php:202
+#@ swiftbiz
+msgid "Custom Background"
+msgstr ""
+
+#: options.php:203
+#@ swiftbiz
+msgid "Change the background CSS."
+msgstr ""
+
+#: options.php:210
+#@ swiftbiz
+msgid "Social Links"
+msgstr ""
+
+#: options.php:214
+#@ swiftbiz
+msgid "Twitter Username:"
+msgstr ""
+
+#: options.php:215
+#@ swiftbiz
+msgid "Enter Twitter Username."
+msgstr ""
+
+#: options.php:221
+#@ swiftbiz
+msgid "Facebook link:"
+msgstr ""
+
+#: options.php:222
+#@ swiftbiz
+msgid "Enter Facebook link."
+msgstr ""
+
+#: options.php:228
+#@ swiftbiz
+msgid "Flickr link:"
+msgstr ""
+
+#: options.php:229
+#@ swiftbiz
+msgid "Enter Flickr link."
+msgstr ""
+
+#: options.php:236
+#@ swiftbiz
+msgid "Display Feed Icon"
+msgstr ""
+
+#: options.php:237
+#@ swiftbiz
+msgid "Display Feed Icon."
+msgstr ""
+
+#: options.php:246
+#@ swiftbiz
+msgid "Slider Configuration"
+msgstr ""
+
+#: options.php:250
+#@ swiftbiz
+msgid "Select Mode"
+msgstr ""
+
+#: options.php:251
+#@ swiftbiz
+msgid "Select Mode."
+msgstr ""
+
+#: options.php:259
+#@ swiftbiz
+msgid "Animation duration"
+msgstr ""
+
+#: options.php:260
+#@ swiftbiz
+msgid "how fast the animation are."
+msgstr ""
+
+#: options.php:266
+#@ swiftbiz
+msgid "Animationspeed"
+msgstr ""
+
+#: options.php:267
+#@ swiftbiz
+msgid "The delay between each slide."
+msgstr ""
+
+#: options.php:273
+#@ swiftbiz
+msgid "show next and prev controls"
+msgstr ""
+
+#: options.php:274
+#@ swiftbiz
+msgid "If Show, show next and prev controls."
+msgstr ""
+
+#: options.php:283
+#@ swiftbiz
+msgid "Show individual slide markers"
+msgstr ""
+
+#: options.php:284
+#@ swiftbiz
+msgid "If Show,Show individual slide markers."
+msgstr ""
+
+#: options.php:292
+#@ swiftbiz
+msgid "Show captions for images."
+msgstr ""
+
+#: options.php:293
+#@ swiftbiz
+msgid "If Show,Show Show captions."
+msgstr ""
+
+#: options.php:304
+#@ swiftbiz
+msgid "Contact Page Settings"
+msgstr ""
+
+#: options.php:309
+#@ swiftbiz
+msgid "Select Contact us page"
+msgstr ""
+
+#: options.php:310
+#@ swiftbiz
+msgid "Contact us page"
+msgstr ""
+
+#: options.php:316
+#@ swiftbiz
+msgid "Contact Page Sidebar Text"
+msgstr ""
+
+#: options.php:317
+#@ swiftbiz
+msgid "Contact Page Sidebar Text."
+msgstr ""
+
+#: options.php:323
+#@ swiftbiz
+msgid "Contact Map Embed Code"
+msgstr ""
+
+#: options.php:324
+#@ swiftbiz
+msgid "Contact Map Embed Code."
+msgstr ""
+
+#: options.php:330
+#@ swiftbiz
+msgid "Email Address for Contact Form"
+msgstr ""
+
+#: options.php:331
+#@ swiftbiz
+msgid "Email Address for Contact Form."
+msgstr ""
+
+#: options.php:337
+#@ swiftbiz
+msgid "Footer"
+msgstr ""
+
+#: options.php:341
+#@ swiftbiz
+msgid "Copyright Text"
+msgstr ""
+
+#: options.php:342
+#@ swiftbiz
+msgid "You can use HTML for links etc.."
+msgstr ""
+
+#: options.php:350
+#@ swiftbiz
+msgid "SEO"
+msgstr ""
+
+#: options.php:354
+#@ swiftbiz
+msgid "Meta Keywords"
+msgstr ""
+
+#: options.php:355
+#@ swiftbiz
+msgid "Keywords comma separated"
+msgstr ""
+
+#: options.php:361
+#: options.php:362
+#@ swiftbiz
+msgid "Meta Description"
+msgstr ""
+
+#: options.php:368
+#@ swiftbiz
+msgid "Google Analytics code:"
+msgstr ""
+
+#: options.php:369
+#@ swiftbiz
+msgid "You can use Google Analytics code here."
+msgstr ""
+
+#: options.php:376
+#@ swiftbiz
+msgid "Front Page Options"
+msgstr ""
+
+#: options.php:380
+#@ swiftbiz
+msgid "Hide Featured Box1"
+msgstr ""
+
+#: options.php:381
+#: options.php:490
+#: options.php:585
+#@ swiftbiz
+msgid "Radio select with default options \"hide\"."
+msgstr ""
+
+#: options.php:389
+#@ swiftbiz
+msgid "Featured Box 1 Heading:"
+msgstr ""
+
+#: options.php:390
+#@ swiftbiz
+msgid "Enter Featured Box 1 Heading."
+msgstr ""
+
+#: options.php:396
+#@ swiftbiz
+msgid "Featured Box 1 Image Path"
+msgstr ""
+
+#: options.php:397
+#: options.php:425
+#: options.php:453
+#: options.php:506
+#: options.php:535
+#: options.php:563
+#@ swiftbiz
+msgid "This creates a full size uploader that previews the image."
+msgstr ""
+
+#: options.php:403
+#@ swiftbiz
+msgid "Featured Box 1 Content:"
+msgstr ""
+
+#: options.php:404
+#@ swiftbiz
+msgid "Enter Featured Box 1 Content."
+msgstr ""
+
+#: options.php:409
+#@ swiftbiz
+msgid "Featured Box 1 Link:"
+msgstr ""
+
+#: options.php:410
+#@ swiftbiz
+msgid "Enter Box 1 Link."
+msgstr ""
+
+#: options.php:417
+#@ swiftbiz
+msgid "Featured Box 2 Heading:"
+msgstr ""
+
+#: options.php:418
+#@ swiftbiz
+msgid "Enter Featured Box 2 Heading."
+msgstr ""
+
+#: options.php:424
+#@ swiftbiz
+msgid "Featured Box 2 Image Path"
+msgstr ""
+
+#: options.php:431
+#@ swiftbiz
+msgid "Featured Box 2 Content:"
+msgstr ""
+
+#: options.php:432
+#@ swiftbiz
+msgid "Enter Featured Box 2 Content."
+msgstr ""
+
+#: options.php:437
+#@ swiftbiz
+msgid "Featured Box 2 Link:"
+msgstr ""
+
+#: options.php:438
+#@ swiftbiz
+msgid "Enter Box 2 Link."
+msgstr ""
+
+#: options.php:445
+#@ swiftbiz
+msgid "Featured Box 3 Heading:"
+msgstr ""
+
+#: options.php:446
+#@ swiftbiz
+msgid "Enter Featured Box 3 Heading."
+msgstr ""
+
+#: options.php:452
+#@ swiftbiz
+msgid "Featured Box 3 Image Path"
+msgstr ""
+
+#: options.php:459
+#@ swiftbiz
+msgid "Featured Box 3 Content:"
+msgstr ""
+
+#: options.php:460
+#@ swiftbiz
+msgid "Enter Featured Box 3 Content."
+msgstr ""
+
+#: options.php:466
+#@ swiftbiz
+msgid "Featured Box 3 Link:"
+msgstr ""
+
+#: options.php:467
+#@ swiftbiz
+msgid "Enter Box 3 Link."
+msgstr ""
+
+#: options.php:474
+#@ swiftbiz
+msgid "Featured Area 2 Heading:"
+msgstr ""
+
+#: options.php:475
+#@ swiftbiz
+msgid "Enter Featured Area 2 Heading."
+msgstr ""
+
+#: options.php:481
+#@ swiftbiz
+msgid "Featured Area 2 Content:"
+msgstr ""
+
+#: options.php:482
+#@ swiftbiz
+msgid "Featured Area 2 Content."
+msgstr ""
+
+#: options.php:489
+#@ swiftbiz
+msgid "Hide Featured Area 3"
+msgstr ""
+
+#: options.php:498
+#@ swiftbiz
+msgid "Featured Area 3 Box 1 Heading:"
+msgstr ""
+
+#: options.php:499
+#@ swiftbiz
+msgid "Enter Featured Area 3 Box 1 Heading."
+msgstr ""
+
+#: options.php:505
+#@ swiftbiz
+msgid "Featured Area 3 Box 1 Image Path"
+msgstr ""
+
+#: options.php:512
+#@ swiftbiz
+msgid "Featured Area 3 Box 1 Content:"
+msgstr ""
+
+#: options.php:513
+#@ swiftbiz
+msgid "Enter Featured Area 3 Box 1 Content."
+msgstr ""
+
+#: options.php:519
+#@ swiftbiz
+msgid "Featured Area 3 Box 1 Link:"
+msgstr ""
+
+#: options.php:520
+#@ swiftbiz
+msgid "Enter Featured Area 3 Box 1 Link."
+msgstr ""
+
+#: options.php:527
+#@ swiftbiz
+msgid "Featured Area 3 Box 2 Heading:"
+msgstr ""
+
+#: options.php:528
+#@ swiftbiz
+msgid "Enter Featured Area 3 Box 2 Heading."
+msgstr ""
+
+#: options.php:534
+#@ swiftbiz
+msgid "Featured Area 3 Box 2 Image Path"
+msgstr ""
+
+#: options.php:541
+#@ swiftbiz
+msgid "Featured Area 3 Box 2 Content:"
+msgstr ""
+
+#: options.php:542
+#@ swiftbiz
+msgid "Enter Featured Area 3 Box 2 Content."
+msgstr ""
+
+#: options.php:547
+#@ swiftbiz
+msgid "Featured Area 3 Box 2 Link:"
+msgstr ""
+
+#: options.php:548
+#@ swiftbiz
+msgid "Enter Featured Area 3 Box 2 Link."
+msgstr ""
+
+#: options.php:555
+#@ swiftbiz
+msgid "Featured Area 3 Box 3 Heading:"
+msgstr ""
+
+#: options.php:556
+#@ swiftbiz
+msgid "Enter Featured Area 3 Box 3 Heading."
+msgstr ""
+
+#: options.php:562
+#@ swiftbiz
+msgid "Featured Area 3 Box 3 Image Path"
+msgstr ""
+
+#: options.php:569
+#@ swiftbiz
+msgid "Featured Area 3 Box 3 Content:"
+msgstr ""
+
+#: options.php:570
+#@ swiftbiz
+msgid "Enter Featured Area 3 Box 3 Content."
+msgstr ""
+
+#: options.php:576
+#@ swiftbiz
+msgid "Featured Area 3 Box 3 Link:"
+msgstr ""
+
+#: options.php:577
+#@ swiftbiz
+msgid "Enter Featured Area 3 Box 3 Link."
+msgstr ""
+
+#: options.php:584
+#@ swiftbiz
+msgid "Hide Latest Posts Box:"
+msgstr ""
+
+#: options.php:593
+#@ swiftbiz
+msgid "Select Number Of Posts"
+msgstr ""
+
+#: options.php:594
+#@ swiftbiz
+msgid "eg: 4."
+msgstr ""
+
+#: page.php:31
+#: template-sitemap.php:37
+#@ swiftbiz
+msgid "Page Does Not Exist"
+msgstr ""
+
+#: search.php:7
+#, php-format
+#@ swiftbiz
+msgid "Search Results for: %s"
+msgstr ""
+
+#: search.php:17
+#@ swiftbiz
+msgid "posted on"
+msgstr ""
+
+#: search.php:22
+#@ swiftbiz
+msgid "Posted in"
+msgstr ""
+
+#: single.php:39
+#, php-format
+#@ swiftbiz
+msgid "&larr; %link"
+msgstr ""
+
+#: single.php:41
+#, php-format
+#@ swiftbiz
+msgid "%link &rarr;"
+msgstr ""
+
+#: tag.php:6
+#, php-format
+#@ swiftbiz
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: template-sitemap.php:51
+#@ swiftbiz
+msgid "Pages"
+msgstr ""
+
+#: template-sitemap.php:57
+#@ swiftbiz
+msgid "Categories"
+msgstr ""
+
+#: template-sitemap.php:63
+#@ swiftbiz
+msgid "Blog Entries"
+msgstr ""
+
+#: template-sitemap.php:134
+#@ swiftbiz
+msgid "Posts Per Category"
+msgstr ""
+

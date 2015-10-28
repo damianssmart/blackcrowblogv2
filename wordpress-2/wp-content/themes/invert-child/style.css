@@ -1,0 +1,15 @@
+/*
+ Theme Name:   Invert Child theme
+ Theme URI:    http://www.sketchthemes.com/themes/invert-responsive-multipurpose-wordpress-theme/
+ Description:  Invert Child Theme
+ Author:       SketchThemes
+ Author URI:   http://sketchthemes.com/
+ Template:     invert
+ Version:      1.0.0
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  invert-child
+*/
+
+@import url("../invert/style.css");
+/* =Theme customization starts here
+-------------------------------------------------------------- */

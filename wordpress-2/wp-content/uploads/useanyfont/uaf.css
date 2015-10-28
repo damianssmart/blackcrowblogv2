@@ -1,0 +1,31 @@
+			@font-face {
+				font-family: 'bc-bold';
+				font-style: normal;
+				src: url('//localhost/wordpress-2/wp-content/uploads/useanyfont/151026092738BC-bold.eot');
+				src: local('bc-bold'), url('//localhost/wordpress-2/wp-content/uploads/useanyfont/151026092738BC-bold.eot') format('embedded-opentype'), url('//localhost/wordpress-2/wp-content/uploads/useanyfont/151026092738BC-bold.woff') format('woff');
+			}
+					@font-face {
+				font-family: 'bc-bold-italic';
+				font-style: normal;
+				src: url('//localhost/wordpress-2/wp-content/uploads/useanyfont/151026092817bc-bold-italic.eot');
+				src: local('bc-bold-italic'), url('//localhost/wordpress-2/wp-content/uploads/useanyfont/151026092817bc-bold-italic.eot') format('embedded-opentype'), url('//localhost/wordpress-2/wp-content/uploads/useanyfont/151026092817bc-bold-italic.woff') format('woff');
+			}
+					@font-face {
+				font-family: 'bc-italic';
+				font-style: normal;
+				src: url('//localhost/wordpress-2/wp-content/uploads/useanyfont/151026092836bc-italic.eot');
+				src: local('bc-italic'), url('//localhost/wordpress-2/wp-content/uploads/useanyfont/151026092836bc-italic.eot') format('embedded-opentype'), url('//localhost/wordpress-2/wp-content/uploads/useanyfont/151026092836bc-italic.woff') format('woff');
+			}
+					@font-face {
+				font-family: 'bc-roman';
+				font-style: normal;
+				src: url('//localhost/wordpress-2/wp-content/uploads/useanyfont/151026092853bc-roman.eot');
+				src: local('bc-roman'), url('//localhost/wordpress-2/wp-content/uploads/useanyfont/151026092853bc-roman.eot') format('embedded-opentype'), url('//localhost/wordpress-2/wp-content/uploads/useanyfont/151026092853bc-roman.woff') format('woff');
+			}
+						h1, h2, h3, h4, h5{
+					font-family: 'bc-bold' !important;
+				}
+						body, p{
+					font-family: 'bc-bold' !important;
+				}
+		

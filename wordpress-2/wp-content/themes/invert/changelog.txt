@@ -1,0 +1,46 @@
+== Changelog ==
+
+= 2.1.3 =
+* Updated Home Video Slider Section.
+* Updated with latest Woocommerce version. Widget and all things of Woocommerce of new version.
+
+= 2.1.2 =
+* Updated FontAwesome Icon CSS.
+* Added Font Subsets.
+* Some Code fixes(video post format,Team member order).
+
+= 2.1.1 =
+* Added Revolution Slider new version 4.6.5.
+
+= 2.1.0 =
+* Compatible with the WordPress latest version (4.0.0)
+* Added Drag & Drop feature in page editor to re-order Home Page Template sections.
+* Added content word limit option in theme options for Team Member Section.
+* Added Revolution Slider new version.
+* Enabled page content section for Home Page Template.
+
+= 2.0.0 =
+* Added Font awesome icons new version.
+* Added Revolution Slider new version.
+* Added Website Icon for Team Member Section.
+* Added WooCommerce Compatibility with different Layouts.
+* Added "Home Template Products Section" & "WooCommerce Settings" inside "Invert Theme Options" in admin.
+* Added WooCommerce Product Section over Home Page Template.
+* Added Project Two Column with Sidebar Page Template.
+* Added Projects Single Page Template.
+* Fixed Header Navigation scroll jerk issue.
+* Fixed Mail field "http://" prefix issue in Team Member Section.
+* Fixed Accordian & Tab ShortCodes spacing issue.
+* Fixed Flickr feeds issue in "MultiSocialFeed - Invert Theme" widget.
+
+= 1.0.2 =
+* Add page editer content at Home template.
+* Fixed parallax blink issue.
+* Added woocommerce compatibility.
+
+= 1.0.1 =
+* Add navigation background hover color option.
+* Fixed logo size issue. 
+
+= 1.0.0 =
+* Initial release

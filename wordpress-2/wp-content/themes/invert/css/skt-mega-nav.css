@@ -1,0 +1,103 @@
+/*=====================================================================================
+SKETCH-THEMED MEGA NAVIGATION CSS
+---------------------------------------------------------------------------------------
+If you would like to use a mega menu, please head to the Appearance > Menus tab in 
+your admin section and make sure that "CSS Classes" are turned on in your screen 
+options tab in the upper right hand corner of your screen. Once the box for them is 
+checked, you'll see an input field for "CSS Classes (optional)" in each of your menu 
+items.
+
+So for example, if you wanted a 4 column mega menu, all you would need to type into 
+your css class box would be "sktmegamenu columns-4" without the quotes of course.
+
+You can set following column for Mega Menu : columns-3, columns-4, columns-5, columns-6
+=======================================================================================*/
+
+#header .container{
+	position:relative;
+}
+
+#skehead #skenav > ul > li.sktmegamenu  li{
+	background:none !important;
+}
+
+#skehead #skenav > ul > li.sktmegamenu {
+    position: inherit !important;
+}
+#skehead #skenav > ul > li.sktmegamenu > ul.sub-menu {
+    left: 0;
+    padding: 15px 0;
+    width: 100%;
+	margin:0;
+}
+#skehead #skenav > ul > li.sktmegamenu > ul > li {
+    display: table-cell !important;
+    text-align: center;
+    padding: 0 15px;
+    width: 33.33%;
+	margin:0;
+}
+#skehead #skenav > ul > li.sktmegamenu .sf-with-ul:after{display: none; top:20px !important; }
+
+#skehead #skenav > ul > li.sktmegamenu li ul li:first-child{ border-top: 1px solid rgba(0,0,0,.15);}
+
+#skehead #skenav > ul > li.sktmegamenu > ul > li:last-child {
+    border-right: medium none !important;
+}
+#skehead #skenav > ul > li.sktmegamenu.columns-3 > ul > li {
+    width: 30.71%;
+}
+#skehead #skenav > ul > li.sktmegamenu.columns-4 > ul > li {
+    width: 22%;
+}
+#skehead #skenav > ul > li.sktmegamenu.columns-5 > ul > li {
+    width: 17.36%;
+}
+#skehead #skenav > ul > li.sktmegamenu.columns-6 > ul > li {
+     width: 14.03%;
+}
+#skehead #skenav > ul > li.sktmegamenu > ul > li ul {
+    display: block !important;
+    left: 0 !important;
+    opacity: 1 !important;
+    position: relative !important;
+    top: 0 !important;
+    width: 100%;
+	margin:0;
+}
+#skehead #skenav > ul > li.sktmegamenu > ul > li {
+    border-right: 1px solid rgba(255, 255, 255, 0.08);
+    border-top: 0;
+	background:none;
+}
+#skehead #skenav > ul > li.sktmegamenu ul li a {
+    border-bottom: medium none !important;
+    padding: 9px 15px;
+}
+#skehead #skenav > ul > li.sktmegamenu > ul > li > a {
+    font-size: 12px;
+    letter-spacing: 2px;
+    margin-bottom: 5px;
+    text-transform: uppercase;
+}
+#skehead #skenav > ul > li.sktmegamenu > ul ul li a:hover, #skehead #skenav > ul > li.sktmegamenu > ul ul li.current-menu-item a {
+    
+}
+#skehead #skenav > ul > li.sktmegamenu > ul > li > a:hover, #skehead #skenav > ul > li.sktmegamenu > ul > li.sfHover > a {
+    background-color: transparent !important;
+}
+
+/*Mobile CSS*/
+#skehead #skenav > ul.skt-mob-menu  > li.sktmegamenu {
+    position: relative !important;
+}
+
+#skehead #skenav  > ul.skt-mob-menu > li.sktmegamenu li{
+	box-sizing: border-box;
+    display: block !important;
+    float: none !important;
+}
+
+#skehead #skenav > ul.skt-mob-menu > li.sktmegamenu ul li a{
+	padding:0!important;
+}
